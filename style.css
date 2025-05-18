@@ -69,3 +69,12 @@ a:hover{
         opacity: 0;
     }
 }
+
+@keyframes headinganim{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
