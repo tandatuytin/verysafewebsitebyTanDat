@@ -50,6 +50,7 @@ a:hover{
 #highlightit{
     background-color: #00ff3c;
     color: black;
+    user-select: all;
 }
 
 @keyframes hovering{
